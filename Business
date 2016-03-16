@@ -1,0 +1,57 @@
+title: Carina for Account Management and Sales
+author: Kim Tryce <kim.tryce@rackspace.com>
+date: 2016-03-16
+description: Script for EContent training
+
+##What is Carina?
+In October 2015 Rackspace announced at the Openstack Summit the release of our containers offering, Carina.  
+So the next logical question is "what is a container"?  Containers is a big buzz word at the moment.  Some popular versions of containers is Docker and Kubernetes by Google.  In Malcom Gladwell's book "The Tipping Point," he refers to the adoption process of ideas.  We are currently at the Early Adopters phase of the tipping point curve and it's rapidly moving towards the Early Mainstream.  So hop on the train and learn about Carina and how it can help you and your customers succeed in the next wave of technology.
+
+A stock definition of a container is: Technology that allows the deployment & execution of an application in an all-in-one package that includes its dependencies, libraries, binaries, user files & settings, and all other required configuration files.  
+What does this actually mean?  Let's go back in hosting history.
+Back when Rackspace started we were known for your typical LAMP stack where we sold a server to a customer.  We then moved into the age of cloud where we could have a multi-tenant solution.  A cloud instace acts similiarly to a VM where you have a hypervisor that dictacts what operating sytem you are using as well as how much RAM and harddrive space you need.  Containers is the next generation of technology where there is not a need for a hypervisor and OS, or "guest OS."  The result is containers provision faster, utilize fewer resources and have a smaller footprint.  This means a cost and time savings for your customer as well as an efficiency hardware gain for Rackspace. Win win!
+
+In short, containerization is a disruptive, revolutionary technology!
+
+Now that we know about containers, what is Carina?
+Pitch: Carina is the first public cloud service to combine this level of performance, simplicity, and affordability for running containerized workloads – the next paradigm for distributing, running, and managing applications.
+
+There are a few things to keep in mind about Carina.
+1) Carina is Rackspace's attempt to get in the container competition early.
+2) Carina is targeted towards developers that are self-sufficient.
+3) Carina was a divergent from traditiona Rackspace products.  How?  Carina lives at getcarina.com and is labeled as a product by Rackspace vs living within the rackspace.com banner.
+4) Carina is a full disclosure product and all information needed to use the product can be found within our extensive documentation at https://getcarina.com/docs/ 
+5) A good way to keep up to date on Carina information is to subscribe to our blog where we provide a weekly wrapup with any pertanent updates. https://getcarina.com/blog/
+
+Now that we know what Carina is, how does Carina work?
+Carina uses Docker Swarm Command Line Interface (CLI) tools.
+Carina securely builds managed container clusters
+Carina spins up in under a minute.  It's really really fast.
+
+I've mentioned Docker a coulple times now.  A good discription of Docker: "Docker is a tool that can package an application and its dependencies in a virtual container that can run on any Linux server. This helps enable flexibility and portability on where the application can run, whether on premises, public cloud, private cloud, bare metal, etc." - 451 Research
+
+Unlike traditional platform-as-a-service offerings or complex tools that are opaque and expensive to run at scale, Carina allows developers to control how applications are packaged, how the environment is set up, and what happens when the application is deployed.  Developers having control = happy developers.
+
+You may be saying at this point, wait Kim, why would someone want to use Carina instead of just using Docker since Docker is available and opensource? Well, it's complicated to run containers.  Containers focus primarily on the packaging, distribution, and management of your applications.  They do not focus on the low level specifics of infrastructure they require. Carina solves these problems.
+
+To sum up Carina offers:
+Simplicity of a “zero infrastructure” environment managed by expert Rackers
+Speed of bare metal infrastructure and “instant-on” capabilities
+Greater control & flexibility with native Docker® tooling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
