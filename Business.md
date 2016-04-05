@@ -142,3 +142,36 @@ Freenode IRC #carina: https://webchat.freenode.net/?channels=carina
 We are a fully globally distributed team with Rackers based in Austin, San Antonio, and Work From Home. If you have questions about the Carina team its self, reach out to one of our leaders: Jesse Noller, Ken Perkins, Kim Tryce, Steve Wilson
 
 Thank you so much for staying with me and learning about this exciting new technology.  
+
+Excersizes
+
+Match the vocab word:
+Containers - virtualization layer runs as an application within the operating system (OS)
+Docker - wrap up a piece of software in a complete filesystem that contains everything it needs to run
+Carina - offers performance, container-native tools, and portability without sacrificing ease of use
+Kubernetes - open source container cluster manager by Google
+Microservice Architecture - a set of narrowly focused, independently deployable services
+
+Quesitons:
+Which takes up the least physical resources?
+Dedicated Server
+Virtual Machine
+*Container
+
+What is Docker's recommendation mentioned in the Container design philosophy article within Carina's documentation?
+run only one process per container
+
+What is the URL for our FAQ?
+https://getcarina.com/docs/reference/faq/
+
+Who wrote the blog post about Fallout Four?
+Kyle Kelley
+
+Where can I go to contanct the Carina team?
+Slack #carina
+Freenode IRC #carina
+Community Forums
+*All of the above
+
+
+
